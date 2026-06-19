@@ -1,0 +1,53 @@
+
+INTERNSPARK TASK SUBMISSION REPORT
+
+Internship Program: Python Developer Internship
+Platform: InternSpark
+GitHub Repository Link: https://github.com/mdalikhanjade-byte/internspark-python-projects
+
+=========================================
+TASK 2: API INTEGRATION (CRYPTO TRACKER)
+=========================================
+
+1. Project Goal & Objective:
+To build a functional Python application that connects to an external API network, fetches real-time market data metrics, parses the structural JSON payload, and formats it into a clean console grid matrix monitor.
+
+2. Source Code Implementation:
+The task was implemented using the Python 'requests' module to establish an HTTP connection with the live API server. Built-in JSON dictionary parsing was utilized to unpack currency values and organize them securely.
+
+3. Project Verification & Execution:
+The application was compiled and tested successfully inside the terminal workspace environment. The required project parameters were extracted with clear data accuracy logs.
+
+[INSERT TASK 2 TERMINAL SCREENSHOT HERE]
+
+
+=========================================
+TASK 3: DATA SCRAPING TOOL
+=========================================
+
+1. Project Goal & Objective:
+Connect to a web domain target, download the document string payload safely, and isolate target elements utilizing filtering mechanics.
+
+2. Source Code Implementation:
+The script successfully downloads raw HTML string data from a target domain. It utilizes regular expressions (the 're' library) to set strict pattern matching rules that filter out structural HTML tags and isolate pure data headers and paragraph text strings cleanly.
+
+3. Project Verification & Execution:
+The system executed without timeouts or blocks. Content was extracted successfully and logged directly into the standard system console.
+
+[INSERT TASK 3 TERMINAL SCREENSHOT HERE]
+
+
+=========================================
+TASK 4: DATA ANALYSIS & VISUALIZATION
+=========================================
+
+1. Project Goal & Objective:
+Process data arrays or inputs, calculate core statistics (totals, averages, highs, and lows), and design a visual chart output directly in the console environment.
+
+2. Source Code Implementation:
+The application performs programmatic loop operations over dictionary datasets to aggregate metrics. It uses custom block character scaling models ('█') to convert numeric ranges into live visual bar charts natively inside a text environment.
+
+3. Project Verification & Execution:
+Mathematical summary benchmarks matched test conditions accurately, and the custom terminal graph rendered clean proportional scales across all intervals.
+
+[INSERT TASK 4 TERMINAL SCREENSHOT HERE]
